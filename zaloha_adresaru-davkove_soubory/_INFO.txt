@@ -1,0 +1,5 @@
+
+toto je reseni zalohovani vybranych adresaru ciste jenom pomoci davkovych souboru, takze nejjednodussim
+moznym zpusobem a bez niceho dalsiho, funguje to stejne a spolehlive jako vse ostatni
+je urcen pro ceskou lokalizaci systemu Windows viz. screenshoty
+
