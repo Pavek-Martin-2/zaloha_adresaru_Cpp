@@ -1,0 +1,6 @@
+
+toto je opet davkovy soubor ale neskada si datum sam ale sahne si pro nej
+do PowerShellu (musi byt verze 5.1) a Powershell mu preda hodnotu
+aktualniho datumu kterou pak davkovy soubor pouzije uz sam
+tak alespon 3 zastupce sem jeste davam
+
